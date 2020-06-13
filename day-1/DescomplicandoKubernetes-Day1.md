@@ -74,7 +74,7 @@
 
 ## Qual distro Linux devo usar?
 
-Devido ao fato de algumas ferramentas importantes, como o ``systemd`` e ``journald``, terem se tornado padrão na maioria das principais distribuições disponíveis hoje, você não deve encontrar problemas para seguir o treinamento, caso você opte por uma delas, como Ubuntu, Debian, CentOS e afins.
+Devido ao fato de algumas ferramentas importantes, como o ``systemd`` e ``journald``, terem se tornado padrão na maioria das principais distribuições disponíveis hoje, você não deve encontrar problemas para seguir o treinamento caso você opte por uma delas, como Ubuntu, Debian, CentOS e afins.
 
 ## Alguns sites que devemos visitar
 
